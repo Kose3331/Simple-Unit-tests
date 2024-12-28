@@ -1,0 +1,12 @@
+D:\Simple-Unit-Tests\LINQ_Methods\LINQMethods\bin\Debug\net6.0\LINQMethods.deps.json
+D:\Simple-Unit-Tests\LINQ_Methods\LINQMethods\bin\Debug\net6.0\LINQMethods.dll
+D:\Simple-Unit-Tests\LINQ_Methods\LINQMethods\bin\Debug\net6.0\LINQMethods.pdb
+D:\Simple-Unit-Tests\LINQ_Methods\LINQMethods\obj\Debug\net6.0\LINQMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Simple-Unit-Tests\LINQ_Methods\LINQMethods\obj\Debug\net6.0\LINQMethods.AssemblyInfoInputs.cache
+D:\Simple-Unit-Tests\LINQ_Methods\LINQMethods\obj\Debug\net6.0\LINQMethods.AssemblyInfo.cs
+D:\Simple-Unit-Tests\LINQ_Methods\LINQMethods\obj\Debug\net6.0\LINQMethods.csproj.CoreCompileInputs.cache
+D:\Simple-Unit-Tests\LINQ_Methods\LINQMethods\obj\Debug\net6.0\LINQMethods.sourcelink.json
+D:\Simple-Unit-Tests\LINQ_Methods\LINQMethods\obj\Debug\net6.0\LINQMethods.dll
+D:\Simple-Unit-Tests\LINQ_Methods\LINQMethods\obj\Debug\net6.0\refint\LINQMethods.dll
+D:\Simple-Unit-Tests\LINQ_Methods\LINQMethods\obj\Debug\net6.0\LINQMethods.pdb
+D:\Simple-Unit-Tests\LINQ_Methods\LINQMethods\obj\Debug\net6.0\ref\LINQMethods.dll

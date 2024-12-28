@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pXIBE/wVeLM=",
+  "success": true,
+  "projectFilePath": "D:\\Simple-Unit-Tests\\LINQ_Methods\\LINQMethods\\LINQMethods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kose\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Kose\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Kose\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

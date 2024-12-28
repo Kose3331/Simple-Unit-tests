@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Simple-Unit-Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D18E35E-47E8-4991-96F3-15D8FA954455}|tests\\UnitTests_LINQ\\UnitTests_LINQ.csproj|d:\\simple-unit-tests\\tests\\unittests_linq\\unittests_linq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D18E35E-47E8-4991-96F3-15D8FA954455}|tests\\UnitTests_LINQ\\UnitTests_LINQ.csproj|solutionrelative:tests\\unittests_linq\\unittests_linq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388A0536-E034-413D-B778-B46C6A789F4D}|src\\LINQ_Methods\\LINQ_Methods.csproj|d:\\simple-unit-tests\\src\\linq_methods\\grouping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388A0536-E034-413D-B778-B46C6A789F4D}|src\\LINQ_Methods\\LINQ_Methods.csproj|solutionrelative:src\\linq_methods\\grouping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D18E35E-47E8-4991-96F3-15D8FA954455}|tests\\UnitTests_LINQ\\UnitTests_LINQ.csproj|d:\\simple-unit-tests\\tests\\unittests_linq\\countcharacterstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D18E35E-47E8-4991-96F3-15D8FA954455}|tests\\UnitTests_LINQ\\UnitTests_LINQ.csproj|solutionrelative:tests\\unittests_linq\\countcharacterstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D18E35E-47E8-4991-96F3-15D8FA954455}|tests\\UnitTests_LINQ\\UnitTests_LINQ.csproj|d:\\simple-unit-tests\\tests\\unittests_linq\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D18E35E-47E8-4991-96F3-15D8FA954455}|tests\\UnitTests_LINQ\\UnitTests_LINQ.csproj|solutionrelative:tests\\unittests_linq\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388A0536-E034-413D-B778-B46C6A789F4D}|src\\LINQ_Methods\\LINQ_Methods.csproj|d:\\simple-unit-tests\\src\\linq_methods\\plants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388A0536-E034-413D-B778-B46C6A789F4D}|src\\LINQ_Methods\\LINQ_Methods.csproj|solutionrelative:src\\linq_methods\\plants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D18E35E-47E8-4991-96F3-15D8FA954455}|tests\\UnitTests_LINQ\\UnitTests_LINQ.csproj|d:\\simple-unit-tests\\tests\\unittests_linq\\unittests_linq.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3D18E35E-47E8-4991-96F3-15D8FA954455}|tests\\UnitTests_LINQ\\UnitTests_LINQ.csproj|solutionrelative:tests\\unittests_linq\\unittests_linq.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388A0536-E034-413D-B778-B46C6A789F4D}|src\\LINQ_Methods\\LINQ_Methods.csproj|d:\\simple-unit-tests\\src\\linq_methods\\countcharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388A0536-E034-413D-B778-B46C6A789F4D}|src\\LINQ_Methods\\LINQ_Methods.csproj|solutionrelative:src\\linq_methods\\countcharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388A0536-E034-413D-B778-B46C6A789F4D}|src\\LINQ_Methods\\LINQ_Methods.csproj|d:\\simple-unit-tests\\src\\linq_methods\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388A0536-E034-413D-B778-B46C6A789F4D}|src\\LINQ_Methods\\LINQ_Methods.csproj|solutionrelative:src\\linq_methods\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388A0536-E034-413D-B778-B46C6A789F4D}|src\\LINQ_Methods\\LINQ_Methods.csproj|d:\\simple-unit-tests\\src\\linq_methods\\oddoccurences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388A0536-E034-413D-B778-B46C6A789F4D}|src\\LINQ_Methods\\LINQ_Methods.csproj|solutionrelative:src\\linq_methods\\oddoccurences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388A0536-E034-413D-B778-B46C6A789F4D}|src\\LINQ_Methods\\LINQ_Methods.csproj|d:\\simple-unit-tests\\src\\linq_methods\\miner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388A0536-E034-413D-B778-B46C6A789F4D}|src\\LINQ_Methods\\LINQ_Methods.csproj|solutionrelative:src\\linq_methods\\miner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388A0536-E034-413D-B778-B46C6A789F4D}|src\\LINQ_Methods\\LINQ_Methods.csproj|d:\\simple-unit-tests\\src\\linq_methods\\countrealnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388A0536-E034-413D-B778-B46C6A789F4D}|src\\LINQ_Methods\\LINQ_Methods.csproj|solutionrelative:src\\linq_methods\\countrealnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "D:\\Simple-Unit-Tests\\tests\\UnitTests_LINQ\\Usings.cs",
+              "RelativeDocumentMoniker": "tests\\UnitTests_LINQ\\Usings.cs",
+              "ToolTip": "D:\\Simple-Unit-Tests\\tests\\UnitTests_LINQ\\Usings.cs",
+              "RelativeToolTip": "tests\\UnitTests_LINQ\\Usings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T13:11:49.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTests_LINQ.csproj",
+              "DocumentMoniker": "D:\\Simple-Unit-Tests\\tests\\UnitTests_LINQ\\UnitTests_LINQ.csproj",
+              "RelativeDocumentMoniker": "tests\\UnitTests_LINQ\\UnitTests_LINQ.csproj",
+              "ToolTip": "D:\\Simple-Unit-Tests\\tests\\UnitTests_LINQ\\UnitTests_LINQ.csproj",
+              "RelativeToolTip": "tests\\UnitTests_LINQ\\UnitTests_LINQ.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-22T13:07:50.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTests_LINQ",
+              "DocumentMoniker": "D:\\Simple-Unit-Tests\\tests\\UnitTests_LINQ\\UnitTests_LINQ.csproj",
+              "RelativeDocumentMoniker": "tests\\UnitTests_LINQ\\UnitTests_LINQ.csproj",
+              "ToolTip": "D:\\Simple-Unit-Tests\\tests\\UnitTests_LINQ\\UnitTests_LINQ.csproj",
+              "RelativeToolTip": "tests\\UnitTests_LINQ\\UnitTests_LINQ.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-22T13:06:55.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountCharactersTests.cs",
+              "DocumentMoniker": "D:\\Simple-Unit-Tests\\tests\\UnitTests_LINQ\\CountCharactersTests.cs",
+              "RelativeDocumentMoniker": "tests\\UnitTests_LINQ\\CountCharactersTests.cs",
+              "ToolTip": "D:\\Simple-Unit-Tests\\tests\\UnitTests_LINQ\\CountCharactersTests.cs",
+              "RelativeToolTip": "tests\\UnitTests_LINQ\\CountCharactersTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:56:40.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Plants.cs",
+              "DocumentMoniker": "D:\\Simple-Unit-Tests\\src\\LINQ_Methods\\Plants.cs",
+              "RelativeDocumentMoniker": "src\\LINQ_Methods\\Plants.cs",
+              "ToolTip": "D:\\Simple-Unit-Tests\\src\\LINQ_Methods\\Plants.cs",
+              "RelativeToolTip": "src\\LINQ_Methods\\Plants.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:51:44.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "D:\\Simple-Unit-Tests\\src\\LINQ_Methods\\Orders.cs",
+              "RelativeDocumentMoniker": "src\\LINQ_Methods\\Orders.cs",
+              "ToolTip": "D:\\Simple-Unit-Tests\\src\\LINQ_Methods\\Orders.cs",
+              "RelativeToolTip": "src\\LINQ_Methods\\Orders.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:51:33.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OddOccurences.cs",
+              "DocumentMoniker": "D:\\Simple-Unit-Tests\\src\\LINQ_Methods\\OddOccurences.cs",
+              "RelativeDocumentMoniker": "src\\LINQ_Methods\\OddOccurences.cs",
+              "ToolTip": "D:\\Simple-Unit-Tests\\src\\LINQ_Methods\\OddOccurences.cs",
+              "RelativeToolTip": "src\\LINQ_Methods\\OddOccurences.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:50:56.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Miner.cs",
+              "DocumentMoniker": "D:\\Simple-Unit-Tests\\src\\LINQ_Methods\\Miner.cs",
+              "RelativeDocumentMoniker": "src\\LINQ_Methods\\Miner.cs",
+              "ToolTip": "D:\\Simple-Unit-Tests\\src\\LINQ_Methods\\Miner.cs",
+              "RelativeToolTip": "src\\LINQ_Methods\\Miner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:50:15.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grouping.cs",
+              "DocumentMoniker": "D:\\Simple-Unit-Tests\\src\\LINQ_Methods\\Grouping.cs",
+              "RelativeDocumentMoniker": "src\\LINQ_Methods\\Grouping.cs",
+              "ToolTip": "D:\\Simple-Unit-Tests\\src\\LINQ_Methods\\Grouping.cs",
+              "RelativeToolTip": "src\\LINQ_Methods\\Grouping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:49:53.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CountRealNumbers.cs",
+              "DocumentMoniker": "D:\\Simple-Unit-Tests\\src\\LINQ_Methods\\CountRealNumbers.cs",
+              "RelativeDocumentMoniker": "src\\LINQ_Methods\\CountRealNumbers.cs",
+              "ToolTip": "D:\\Simple-Unit-Tests\\src\\LINQ_Methods\\CountRealNumbers.cs",
+              "RelativeToolTip": "src\\LINQ_Methods\\CountRealNumbers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:49:32.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CountCharacters.cs",
+              "DocumentMoniker": "D:\\Simple-Unit-Tests\\src\\LINQ_Methods\\CountCharacters.cs",
+              "RelativeDocumentMoniker": "src\\LINQ_Methods\\CountCharacters.cs",
+              "ToolTip": "D:\\Simple-Unit-Tests\\src\\LINQ_Methods\\CountCharacters.cs",
+              "RelativeToolTip": "src\\LINQ_Methods\\CountCharacters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:47:54.45Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
