@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pXIBE/wVeLM=",
+  "dgSpecHash": "7KDu4IWs+EY=",
   "success": true,
-  "projectFilePath": "D:\\Simple-Unit-Tests\\LINQ_Methods\\LINQMethods\\LINQMethods.csproj",
+  "projectFilePath": "D:\\Simple-Unit-Tests\\Simple-Unit-tests\\LINQ_Methods\\LINQMethods\\LINQMethods.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kose\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\Kose\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",

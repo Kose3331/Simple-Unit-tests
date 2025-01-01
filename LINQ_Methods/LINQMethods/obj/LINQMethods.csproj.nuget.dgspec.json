@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Simple-Unit-Tests\\LINQ_Methods\\LINQMethods\\LINQMethods.csproj": {}
+    "D:\\Simple-Unit-Tests\\Simple-Unit-tests\\LINQ_Methods\\LINQMethods\\LINQMethods.csproj": {}
   },
   "projects": {
-    "D:\\Simple-Unit-Tests\\LINQ_Methods\\LINQMethods\\LINQMethods.csproj": {
+    "D:\\Simple-Unit-Tests\\Simple-Unit-tests\\LINQ_Methods\\LINQMethods\\LINQMethods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Simple-Unit-Tests\\LINQ_Methods\\LINQMethods\\LINQMethods.csproj",
+        "projectUniqueName": "D:\\Simple-Unit-Tests\\Simple-Unit-tests\\LINQ_Methods\\LINQMethods\\LINQMethods.csproj",
         "projectName": "LINQMethods",
-        "projectPath": "D:\\Simple-Unit-Tests\\LINQ_Methods\\LINQMethods\\LINQMethods.csproj",
+        "projectPath": "D:\\Simple-Unit-Tests\\Simple-Unit-tests\\LINQ_Methods\\LINQMethods\\LINQMethods.csproj",
         "packagesPath": "C:\\Users\\Kose\\.nuget\\packages\\",
-        "outputPath": "D:\\Simple-Unit-Tests\\LINQ_Methods\\LINQMethods\\obj\\",
+        "outputPath": "D:\\Simple-Unit-Tests\\Simple-Unit-tests\\LINQ_Methods\\LINQMethods\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

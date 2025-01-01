@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nJGNw7yU64Q=",
+  "dgSpecHash": "lFzj2q/F6qQ=",
   "success": true,
-  "projectFilePath": "D:\\Simple-Unit-Tests\\UnitTestsLINQ\\UnitTestsLINQ.csproj",
+  "projectFilePath": "D:\\Simple-Unit-Tests\\Simple-Unit-tests\\UnitTestsLINQ\\UnitTestsLINQ.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kose\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Kose\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

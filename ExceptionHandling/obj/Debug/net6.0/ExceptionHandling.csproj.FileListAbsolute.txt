@@ -1,0 +1,12 @@
+D:\Simple-Unit-Tests\Simple-Unit-tests\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.deps.json
+D:\Simple-Unit-Tests\Simple-Unit-tests\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.dll
+D:\Simple-Unit-Tests\Simple-Unit-tests\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.pdb
+D:\Simple-Unit-Tests\Simple-Unit-tests\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Simple-Unit-Tests\Simple-Unit-tests\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfoInputs.cache
+D:\Simple-Unit-Tests\Simple-Unit-tests\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfo.cs
+D:\Simple-Unit-Tests\Simple-Unit-tests\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\Simple-Unit-Tests\Simple-Unit-tests\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.sourcelink.json
+D:\Simple-Unit-Tests\Simple-Unit-tests\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.dll
+D:\Simple-Unit-Tests\Simple-Unit-tests\ExceptionHandling\obj\Debug\net6.0\refint\ExceptionHandling.dll
+D:\Simple-Unit-Tests\Simple-Unit-tests\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.pdb
+D:\Simple-Unit-Tests\Simple-Unit-tests\ExceptionHandling\obj\Debug\net6.0\ref\ExceptionHandling.dll
